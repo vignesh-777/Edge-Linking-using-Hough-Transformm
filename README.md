@@ -90,4 +90,5 @@ plt.show()
 
 ### Display the result of Hough transform
 <img width="502" height="361" alt="image" src="https://github.com/user-attachments/assets/9a97717f-0563-4ea8-a221-d52e8a568fec" />
-
+## Result
+The final result will be your original image with detected straight lines overlaid in red.
